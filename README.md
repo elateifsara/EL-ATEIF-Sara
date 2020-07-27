@@ -2,8 +2,8 @@
 
 ## About Me <a href="https://www.linkedin.com/in/sara-el-ateif-b36694117/"> <img align="left" width="150" height="150" src="https://github.com/elateifsara/elateifsara/blob/master/assets/sea_octocat.png" ></a>
 
-I am a **Machine Learning Engineer**, a Cosmopolitan, Curious and eager to learn soul.
-Currently, enamored by Artificial Intelligence with a mission of making a good impact on my community.
+I am a **Machine Learning Engineer**, a Cosmopolitan, Curious and eager to learn soul.  
+Currently, enamored by Artificial Intelligence with a mission of making a good impact on my community.  
 My main **interest** lies in researching, developping and applying **deep learning** models to **computer vision** solutions.
 
 ## Favorite languages and libraries
