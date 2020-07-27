@@ -9,7 +9,7 @@ My main **interest** lies in researching, developping and applying **deep learni
 ## Favorite languages and libraries
 
 <img src='assets/python.png' alt='Python' width=60 height=70>
-<img src='assets/TensorFlow.png' alt='TensorFlow' width=70 height=80>
+<img src='https://github.com/elateifsara/elateifsara/blob/master/assets/TensorFlow.png' alt='TensorFlow' width=70 height=80>
 <img src='assets/pytorch.png' alt='PyTorch' width=60 height=70>
 
 ## Communities I am part of
