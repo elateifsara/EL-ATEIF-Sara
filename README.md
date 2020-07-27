@@ -1,6 +1,6 @@
 # Hello, I am Sara 👩‍💻 🤖
 
-## About Me <a href="https://www.linkedin.com/in/sara-el-ateif-b36694117/"> <img align="left" width="160" height="160" src="assets/sea_octocat.png" ></a>
+## About Me <a href="https://www.linkedin.com/in/sara-el-ateif-b36694117/"> <img align="left" width="160" height="160" src="https://github.com/elateifsara/elateifsara/blob/master/assets/sea_octocat.png" ></a>
 
 I am a **Machine Learning Engineer**, a Cosmopolitan, Curious and eager to learn soul.
 Currently, enamored by Artificial Intelligence with a mission of making a good impact on my community.
@@ -8,9 +8,7 @@ My main **interest** lies in researching, developping and applying **deep learni
 
 ## Favorite languages and libraries
 
-<img src='assets/python.png' alt='Python' width=60 height=70>
-<img src='https://github.com/elateifsara/elateifsara/blob/master/assets/TensorFlow.png' alt='TensorFlow' width=70 height=80>
-<img src='assets/pytorch.png' alt='PyTorch' width=60 height=70>
+<img src='https://github.com/elateifsara/elateifsara/blob/master/assets/python.png' alt='Python' width=60 height=70><img src='https://github.com/elateifsara/elateifsara/blob/master/assets/TensorFlow.png' alt='TensorFlow' width=70 height=80><img src='https://github.com/elateifsara/elateifsara/blob/master/assets/pytorch.png' alt='PyTorch' width=60 height=70>
 
 ## Communities I am part of
 
