@@ -1,11 +1,24 @@
 # Hello, I am Sara 👩‍💻 🤖
 
-## About Me
-I am a Machine Learning Engineer, a Cosmopolitan, Curious and eager to learn soul. Currently, enamored by Artificial Intelligence with a mission of making a good impact on my community.
-My main interest lies in developping and applying deep learning models to computer vision solutions.
+## About Me <a href="https://www.linkedin.com/in/sara-el-ateif-b36694117/"> <img align="left" width="160" height="160" src="assets/sea_octocat.png" ></a>
+
+I am a **Machine Learning Engineer**, a Cosmopolitan, Curious and eager to learn soul.
+Currently, enamored by Artificial Intelligence with a mission of making a good impact on my community.
+My main **interest** lies in researching, developping and applying **deep learning** models to **computer vision** solutions.
 
 ## Favorite languages and libraries
-[Python](assets/python.png). 
-[TensorFlow](assets/TensorFlow.png). 
-[PyTorch](assets/Pytorch_logo.png). 
 
+<img src='assets/python.png' alt='Python' width=60 height=70>
+<img src='assets/TensorFlow.png' alt='TensorFlow' width=70 height=80>
+<img src='assets/pytorch.png' alt='PyTorch' width=60 height=70>
+
+## Communities I am part of
+
+- GDG & WTM Casablanca
+- Omdena
+- TensorFlow Casablanca User Group
+- Women in Machine Learning and Data Science Casablanca
+
+## Github Stats
+
+![Sara's github stats](https://github-readme-stats.vercel.app/api?username=elateifsara&hide=contribs,prs)
