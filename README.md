@@ -1,10 +1,10 @@
-# Hello, I am Sara 👩‍💻 🤖
+# Hello, I am Sara El-Ateif 👩‍💻🤖
 
 ## About Me <a href="https://www.linkedin.com/in/sara-el-ateif-b36694117/"> <img align="left" width="150" height="150" src="https://github.com/elateifsara/elateifsara/blob/master/assets/sea_octocat.png" ></a>
 
-I am a **Machine Learning Engineer**, a Cosmopolitan, Curious and eager to learn soul.  
-Currently, enamored by Artificial Intelligence with a mission of making a good impact on my community.  
-My main **interest** lies in researching, developping and applying **deep learning** models to **computer vision** solutions.
+I am a Cosmopolitan, Curious, and eager-to-learn soul, a **Machine Learning Researcher** focused on multimodality learning and a Mindvalley Certified Business Coach.  
+Currently, enamored by Artificial Intelligence with a mission of revolutionizing how we do business and creating a lasting impact on my community.  
+My main **interest** lies in researching, developing, and applying **innovation** principles to build **sustainable businesses** while creating unforgettable **customer experiences**.
 
 ## Favorite languages and libraries
 
@@ -12,6 +12,10 @@ My main **interest** lies in researching, developping and applying **deep learni
 
 ## Communities I am part of
 
+- Google Developer Experts
+- Google Ph.D. Fellows in Machine Vision
+- NVIDIA Instructors and Univerity Ambassadors
+- Women Techmakers Ambassadors
 - GDG & WTM Casablanca
 - Omdena
 - TensorFlow Casablanca User Group
